@@ -1,0 +1,264 @@
+/* ----------Home Page CSS ----------------- */
+#adminid1
+
+{
+background-image : url('/images/admin.jpg');
+background-repeat : no-repeat;
+background-size: 100% 230%;
+
+}
+#adminheader
+{
+color : green;
+text-align : center;
+}
+
+#fieldid
+{
+width : 20%;
+margin-left : 600px;
+}
+#formid
+{
+font-size :20px;
+color : #1509eb
+}
+
+#lgid
+{
+font-size : 30px;
+color : #de1035;
+}
+
+/* ----------Details Page CSS ----------------- */
+
+#studentbg
+{
+background-image : url("/images/student.jpg");
+background-repeat : no-repeat;
+background-size : 100% 140%;
+}
+.btn1
+{
+border-radius : 10px;
+padding : 30px;
+margin-top : 150px;
+margin-left :1000px;
+font-size : 30px;
+background-color : #0ce4e8;
+color : #f21340;
+}
+
+.btn2
+{
+border-radius : 10px;
+padding : 30px;
+margin-top : 150px;
+margin-left :1000px;
+font-size : 30px;
+background-color : #f294ea;
+color : #367824;
+}
+
+/* ----------Studentinfo Page CSS ----------------- */
+
+#stuinfbg
+{
+background-image : url("/images/stuinf.jpg");
+background-repeat : no-repeat;
+background-size :100% 125%;
+}
+.sbtn1
+{
+border-radius : 10px;
+padding : 30px;
+margin-top : 50px;
+margin-left :250px;
+font-size : 20px;
+background-color : #e8465b;
+color : #1e367d;
+}
+
+.sbtn2
+{
+border-radius : 10px;
+padding : 30px;
+margin-top : -75px;
+margin-left :1190px;
+font-size : 20px;
+background-color : #d64bcd;
+color : #6e193b;
+}
+
+.sbtn3
+{
+border-radius : 10px;
+padding : 30px;
+margin-top : 230px;
+margin-left :20px;
+font-size : 20px;
+background-color :#e0dd2f;
+color : #ba1133;
+}
+
+.sbtn4
+{
+border-radius : 10px;
+padding : 30px;
+
+margin-left :995px;
+font-size : 20px;
+margin-top : -20px;
+background-color :#3ec73c;
+color : #f21340;
+}
+
+/* ----------Studentadd Page CSS ----------------- */
+
+#stuaddbg
+{
+background-image : url("/images/stuadd.jpg");
+background-repeat : no-repeat;
+background-size :100% 140%;
+
+}
+
+#stuform
+{
+
+
+color : #f2db0a;
+margin-left : 900px;
+margin-top : 80px;
+font-size :20px;
+font-weight : bold;
+}
+
+#stuh1
+{
+
+color : #f056eb;
+}
+
+/* ----------Studentedit Page CSS ----------------- */
+
+#stueditbg
+{
+background-image : url("/images/stuedit.jpg");
+background-repeat : no-repeat;
+background-size :100% 120%;
+
+}
+
+#stu1form
+{
+
+
+color : #f2db0a;
+margin-left : 600px;
+margin-top : 80px;
+font-size :17px;
+font-weight : bold;
+}
+
+#stu1h1
+{
+
+color : #db1dcb;
+}
+
+/* ----------Studentview Page CSS ----------------- */
+
+#stuviewbg
+{
+background-image : url("/images/stuview.jpg");
+background-repeat : no-repeat;
+background-size :100% 220%;
+
+}
+#stu2h1
+{
+margin-top : 100px;
+margin-left : 600px;
+color :#e01fdd;
+}
+
+#stuviewform
+{
+margin-top : 50px;
+margin-left : 600px;
+color : #de1d1d;
+font-size : 30px;
+}
+
+#viewid
+{
+	text-align :center;
+	color : orange;
+	margin-right : 450px;
+}
+
+/* ----------Studentdel Page CSS ----------------- */
+
+#studelbg
+{
+background-image : url("/images/studel.jpg");
+background-repeat : no-repeat;
+background-size :100% 190%;
+
+}
+#stu3h1
+{
+margin-top : 200px;
+margin-left : 600px;
+color : #db1dcb;
+}
+
+#studelform
+{
+margin-top : 50px;
+margin-left : 600px;
+color :#d6a211;
+font-size : 30px;
+}
+
+/* ------------------view all student details page ------------------------  */
+#viewallbg
+{
+background-image : url("/images/stuviewall.jpg");
+background-repeat : no-repeat;
+background-size : 100% 800%;
+}
+
+/* --------------------------Academic page ------------------  */
+
+#acdbg
+{
+	background-image : url("/images/acbg.jpg");
+background-repeat : no-repeat;
+background-size : 100% 320%;
+}
+
+/* -------------- view Academic page ---------- */
+#viewacd
+{
+	background-image : url("/images/acview.jpg");
+background-repeat : no-repeat;
+background-size : 100% 320%;
+}
+
+
+.btnd{
+
+border-radius : 10px;
+padding : 15px;
+
+}
+
+.btns{
+
+border-radius : 10px;
+padding : 15px;
+background-color : #6bd943;
+ float : right;
+}
